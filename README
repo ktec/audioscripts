@@ -1,6 +1,10 @@
+WARNING: THESE SCRIPTS WILL ALTER YOUR FILES. PLEASE ENSURE YOU HAVE A BACK UP!!!!
+
+
 Basically this is a bunch of scripts to help fix your audio files. 
 Each script tries to do just one task in keeping with linux methodology.
 
+License: No license, do with it as you wish. Always appreciate contributions.
 
 
 TODO: Update all scripts to use mutagen so we can support more formats
