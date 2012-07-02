@@ -1,0 +1,7 @@
+Basically this is a bunch of scripts to help fix your audio files. 
+Each script tries to do just one task in keeping with linux methodology.
+
+
+
+TODO: Update all scripts to use mutagen so we can support more formats
+      http://code.google.com/p/mutagen/wiki/Tutorial
